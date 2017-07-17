@@ -1,4 +1,4 @@
-project: 206537
+project: -- #Define project deploy
 requirements:
     file: requirements.txt
 stacks:
