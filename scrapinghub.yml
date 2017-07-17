@@ -1,5 +1,5 @@
-project: 206537
+project: -- #hidden
 requirements:
     file: requirements.txt
 stacks:
-    default: scrapy:1.4-py3
+    default: scrapy:1.4-py3 #Using Python 3.x -- scrapy version 1.4
